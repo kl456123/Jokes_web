@@ -1,0 +1,17 @@
+{
+  "newcap": true,
+  "curly": true,
+  "eqeqeq": true,
+  "strict": false,
+  "undef": true,
+  "unused": true,
+  "laxcomma": false,
+   "asi": false,
+   "sub": true,
+   "quotmark": single,
+   "loopfunc": false,
+   "camelcase": true,
+   "freeze" : true,
+   "node":true,
+   "esversion": 6
+}
